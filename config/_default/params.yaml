@@ -40,14 +40,6 @@ contact_links:
     icon_pack: fab
     name: sunset-余辉
     link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: 
-    link:  ''
-  - icon: keybase
-    icon_pack: fab
-    name: 
-    link: ''
   - icon: comments
     icon_pack: fas
     name: 
